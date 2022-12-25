@@ -1,0 +1,20 @@
+# File Manager
+alt + n
+    nemo
+
+
+# Web Browser
+alt + w
+    brave-browser
+
+# Telegram
+alt + i
+    telegram-desktop
+
+# Discord
+alt + u
+    discord
+
+# Toggle sound between speaker and headphone
+alt + d
+    ./home/ahmed/scripts/toggle-sound
